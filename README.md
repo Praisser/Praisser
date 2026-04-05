@@ -10,3 +10,7 @@ Python · TypeScript · Golang · Next.js · Nest.js · PostgreSQL · Firebase �
 You can reach me through my [GitHub profile](https://github.com/praisser), 
 or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on 
 [LinkedIn](https://linkedin.com/in/praisser) if that's more your thing.
+
+**Fun Facts:**
+- I love pour over coffee
+- **Hobbies :** Photography, Gym, going on long drives
