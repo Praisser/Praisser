@@ -8,5 +8,5 @@ Right now I'm learning Golang, TypeScript, and Python, and also trying to get be
 Python · TypeScript · Golang · Next.js · Nest.js · PostgreSQL · Firebase · Supabase · Rust (sometimes, when I'm feeling brave)
 
 You can reach me through my [GitHub profile](https://github.com/praisser), 
-or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) — I'm also on 
+or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on 
 [LinkedIn](https://linkedin.com/in/praisser) if that's more your thing.
