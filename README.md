@@ -19,5 +19,4 @@ or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praisser&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Praisser&theme=transparent&hide_border=true" height="170" />
 </p>
