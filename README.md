@@ -15,13 +15,5 @@ or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on
 - I love pour over coffee
 - **Hobbies :** Photography, Gym, going on long drives
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praisser&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Praisser&theme=transparent&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praisser&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Praisser&show_icons=true&bg_color=00000000&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praisser&layout=compact&bg_color=00000000&hide_border=true" height="170" />
