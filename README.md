@@ -1,19 +1,47 @@
-## Heya 🫧
+<h1 align="center">Heya 🫧, I'm Mohammed Wasif Ahmed</h1>
+
+<p align="center">
+  <a href="https://github.com/praisser">
+    <img src="https://img.shields.io/badge/GitHub-praisser-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mhmmdwasifahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/praisser">
+    <img src="https://img.shields.io/badge/LinkedIn-praisser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## About Me
 
 I'm Mohammed Wasif Ahmed, currently an undergrad. So how did it all start? Long story short in 7th grade I came across the term "AI" and I was just like *woah*, I need to get into this. Didn't know a single thing about it, but that curiosity is literally what led me to take up Computer Science with a specialization in AI & ML. No regrets.
 
 Right now I'm learning Golang, TypeScript, and Python, and also trying to get better at DSA (I genuinely suck at it, iykwim). It's a process.
 
-**Stack I work with:**
-Python · TypeScript · Golang · Next.js · Nest.js · PostgreSQL · Firebase · Supabase · Rust (sometimes, when I'm feeling brave)
+## Currently
 
-You can reach me through my [GitHub profile](https://github.com/praisser), 
-or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on 
-[LinkedIn](https://linkedin.com/in/praisser) if that's more your thing.
+- Learning: Golang, TypeScript, Python
+- Working on: becoming better at DSA and building consistently
+- Interested in: AI/ML, backend systems, clean product engineering
 
-**Fun Facts:**
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,go,nextjs,nestjs,postgres,firebase,supabase,rust" alt="Tech stack icons" />
+</p>
+
+## Connect With Me
+
+- GitHub: [praisser](https://github.com/praisser)
+- Email: [mhmmdwasifahmed@gmail.com](mailto:mhmmdwasifahmed@gmail.com)
+- LinkedIn: [praisser](https://linkedin.com/in/praisser)
+
+## Fun Facts
+
 - I love pour over coffee
-- **Hobbies :** Photography, Gym, going on long drives
+- Hobbies: Photography, Gym, going on long drives
 
 ## GitHub Stats
 
@@ -26,6 +54,9 @@ or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on
 <p align="center">
   <img src="https://raw.githubusercontent.com/Praisser/Praisser/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-outputs: |
-  dist/github-contribution-grid-snake.svg
-  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+## Featured Projects
+
+<p>
+  Add your best repositories here once you decide which ones you want to highlight.
+</p>
