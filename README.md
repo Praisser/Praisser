@@ -51,6 +51,6 @@ Right now I'm learning Golang, TypeScript, and Python, and also trying to get be
 
 ## Featured Projects
 
-<p>
-  Add your best repositories here once you decide which ones you want to highlight.
-</p>
+### [Frexai](https://github.com/Praisser/Frexai)
+### [Dsprout](https://github.com/Praisser/Dsprout)
+### [Reposort](https://github.com/Praisser/Reposort)
