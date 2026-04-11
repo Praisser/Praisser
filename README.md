@@ -23,4 +23,9 @@ or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on
 
 ## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Praisser/Praisser/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Praisser/Praisser/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+outputs: |
+  dist/github-contribution-grid-snake.svg
+  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
