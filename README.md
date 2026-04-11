@@ -32,12 +32,6 @@ Right now I'm learning Golang, TypeScript, and Python, and also trying to get be
   <img src="https://skillicons.dev/icons?i=python,ts,go,nextjs,nestjs,postgres,firebase,supabase,rust" alt="Tech stack icons" />
 </p>
 
-## Connect With Me
-
-- GitHub: [praisser](https://github.com/praisser)
-- Email: [mhmmdwasifahmed@gmail.com](mailto:mhmmdwasifahmed@gmail.com)
-- LinkedIn: [praisser](https://linkedin.com/in/praisser)
-
 ## Fun Facts
 
 - I love pour over coffee
