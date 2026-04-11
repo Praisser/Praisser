@@ -48,9 +48,3 @@ Right now I'm learning Golang, TypeScript, and Python, and also trying to get be
 <p align="center">
   <img src="https://raw.githubusercontent.com/Praisser/Praisser/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
-## Featured Projects
-
-### [Frexai](https://github.com/Praisser/Frexai)
-### [Dsprout](https://github.com/Praisser/Dsprout)
-### [Reposort](https://github.com/Praisser/Reposort)
