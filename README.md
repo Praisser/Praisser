@@ -21,3 +21,6 @@ or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on
   <img src="https://streak-stats.demolab.com?user=Praisser&theme=transparent&hide_border=true" height="170" />
 </p>
 
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Praisser/Praisser/output/github-contribution-grid-snake-dark.svg)
