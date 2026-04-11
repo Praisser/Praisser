@@ -1,4 +1,4 @@
-<h1 align="center">Heya 🫧, I'm Mohammed Wasif Ahmed</h1>
+<h1 align="center">Heya 🫧</h1>
 
 <p align="center">
   <a href="https://github.com/praisser">
