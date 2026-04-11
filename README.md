@@ -14,7 +14,3 @@ or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on
 **Fun Facts:**
 - I love pour over coffee
 - **Hobbies :** Photography, Gym, going on long drives
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praisser&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" height="165" />
-</p>
