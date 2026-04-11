@@ -14,3 +14,11 @@ or just shoot me a [mail](mailto:mhmmdwasifahmed@gmail.com) ~ I'm also on
 **Fun Facts:**
 - I love pour over coffee
 - **Hobbies :** Photography, Gym, going on long drives
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praisser&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=praisser)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praisser&layout=compact)
